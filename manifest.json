@@ -18,12 +18,12 @@
    },
    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8roxVhN04z9cuvmWmekXAk06tlIk/Btfo091/Btp7OW3dXdzj7rYT6eznAn/7uQ3EhG3iprRgv/2rRpY8vpIbg2uVEGpCWCuMSWPvd6PTiivinNy6oLCRigbvqtA3pojlrszbuVjOep1v7F24IkF5geuwrivYqEy4befPpRBfTQIDAQAB",
    "manifest_version": 2,
-   "name": "Read Mode",
+   "name": "Read Mode 2",
    "page_action": {
       "default_icon": "icon-enabled.png",
       "default_title": "Toggle Read Mode."
    },
    "permissions": [ "tabs", "http://*/*", "https://*/*" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.0.6"
+   "version": "2.0.0"
 }
